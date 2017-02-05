@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         print("Hello world5")
         print("Hello world7")
         
-        var i = 1000
+        var i = 500
         
     }
 
