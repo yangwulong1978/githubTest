@@ -27,10 +27,15 @@ class ViewController: UIViewController {
         
         var i = 500
         
+<<<<<<< HEAD
 
 =======
         var u = 3000
 >>>>>>> origin/branch33
+=======
+        var e = 3333
+        
+>>>>>>> master
     }
 
     override func didReceiveMemoryWarning() {
