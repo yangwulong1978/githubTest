@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("Hello world5")
 
         
+<<<<<<< HEAD
         var u = 300
 
         print("Hello world7")
@@ -27,6 +28,9 @@ class ViewController: UIViewController {
         var i = 500
         
 
+=======
+        var u = 3000
+>>>>>>> origin/branch33
     }
 
     override func didReceiveMemoryWarning() {
