@@ -43,7 +43,9 @@ class ViewController: UIViewController {
 >>>>>>> master
 =======
         var e = 3333 eeee
-        var  f  =444jjjjhhh666
+        var  f  =444jjjjhhh6668888
+        var  f  =444jjjjhhh
+>>>>>>> origin/branch33
     }
 
     override func didReceiveMemoryWarning() {
