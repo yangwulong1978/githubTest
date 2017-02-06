@@ -18,12 +18,34 @@ class ViewController: UIViewController {
         print("Hello world4")
          print("Hello world6")
         print("Hello world5")
+<<<<<<< HEAD
+
+        
+<<<<<<< HEAD
+        var u = 300
+
+=======
+>>>>>>> origin/branch33
         print("Hello world7")
         
+        var u = 3000
         var i = 500
         
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+        var u = 3000
+>>>>>>> origin/branch33
+=======
         var e = 3333
         
+>>>>>>> master
+=======
+        var e = 3333 eeee
+        var  f  =444jjjjhhh6668888
+        var  f  =444jjjjhhh
+>>>>>>> origin/branch33
     }
 
     override func didReceiveMemoryWarning() {
