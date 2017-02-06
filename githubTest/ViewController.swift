@@ -19,7 +19,7 @@ class ViewController: UIViewController {
          print("Hello world6")
         print("Hello world5")
         
-        var u = 300
+        var u = 3000
     }
 
     override func didReceiveMemoryWarning() {
