@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         var i = 500
         
         var e = 3333 eeee
-        var  f  =444jjjjhhh
+        var  f  =444jjjjhhh666
     }
 
     override func didReceiveMemoryWarning() {
